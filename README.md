@@ -1,1 +1,1 @@
-This was a pretty simple homework. I only have the one commit because it took about 30 minutes to finish. I wasn't able to figure out why pushing enter refreshed the page no matter what ondition I was watching for in the information input node. I tried a few different js event types without success. pushing the submit button works perfectlty though. 
+ I tried a few different js event types without success.
